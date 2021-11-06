@@ -1,13 +1,16 @@
 ## Hello there wanderer!
 
-You've successfully found my pocket dimension where I reside and contemplate on the sophistication of metalic systems and how I can break them. 
+
+You've successfully found my pocket dimension where I reside and contemplate on the sophistication of metalic systems and how to break them. 
 
 I do this by practicing various CTFs in order to, hopefully, one day persue a career in cybersecurity. But most important of all is that doing CTFs (and learning about computers in general) makes me truly feel quite happy and so that's why I'm here.
 
 
-### Markdown
+## What's to be expected...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+If you do decide to explore this pocket dimension, be on the look out for writeups to a bunch of CTFs that I've completed over the course of my journey. These CTFs vary in difficulty so there is probably something for everyone.
+
 
 ```markdown
 Syntax highlighted code block
