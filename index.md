@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Hello there wanderer!
 
-You can use the [editor on GitHub](https://github.com/Danrenaline/Danrenaline.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You've successfully found my pocket dimension where I reside and contemplate on the sophistication of metalic systems and how I can break them. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I do this by practicing various CTFs in order to, hopefully, one day persue a career in cybersecurity. But most important of all is that doing CTFs (and learning about computers in general) makes me truly feel quite happy and so that's why I'm here.
+
 
 ### Markdown
 
